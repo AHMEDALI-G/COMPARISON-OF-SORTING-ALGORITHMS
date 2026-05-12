@@ -8,7 +8,7 @@ int main()
 
     clock_t start = clock();
 
-    // Quick Sort (manual stack simulation - simple version)
+    
     int low = 0, high = 4;
     int stack[10];
     int top = -1;
